@@ -7,7 +7,7 @@ interface Image {
 export interface Creator {
   _id: string
   name: string
-  addresss: string
+  address: string
   slug: {
     current: string
   }

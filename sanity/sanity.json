@@ -4,7 +4,7 @@
     "name": "nft-drop-challenge"
   },
   "api": {
-    "projectId": "ul29pjfl",
+    "projectId": "ntgenlw1",
     "dataset": "production"
   },
   "plugins": [
@@ -15,9 +15,7 @@
   ],
   "env": {
     "development": {
-      "plugins": [
-        "@sanity/vision"
-      ]
+      "plugins": ["@sanity/vision"]
     }
   },
   "parts": [
