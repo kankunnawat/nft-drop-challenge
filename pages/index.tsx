@@ -13,7 +13,7 @@ const Home = ({ collections }: Props) => {
   console.log('collections', collections)
 
   return (
-    <div className="px-010 mx-auto flex min-h-screen max-w-7xl flex-col py-20 px-10 2xl:px-0">
+    <div className="mx-auto flex min-h-screen max-w-7xl flex-col py-20 px-10 2xl:px-0">
       <Head>
         <title>NFT Drop Challenge</title>
         <link rel="icon" href="/favicon.ico" />
